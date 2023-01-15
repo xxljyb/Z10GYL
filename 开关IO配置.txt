@@ -1,0 +1,39 @@
+==============输入端==============
+SP4T4_CONTROL1         PE9                  
+SP4T4_CONTROL2         PE8
+SP4T4_CONTROL3         PE7
+SP4T4_CONTROL4         PG1
+==============输出端==============
+***********************SP4T*************************
+SP4T6_CONTROL1         PC0
+SP4T6_CONTROL2         PF10
+SP4T6_CONTROL3         PF9
+SP4T6_CONTROL4         PF8
+**********************SP6T_LOAD1******************
+SP4T7_CONTROL1         PB0
+SP4T7_CONTROL2         PC5
+SP4T7_CONTROL3         PC4
+SP4T7_CONTROL4         PA7
+SP4T8_CONTROL1         PA6
+SP4T8_CONTROL2         PA5
+**********************SP6T_LOAD2******************
+SP4T13_CONTROL1         PB3
+SP4T13_CONTROL2         PG15
+SP4T13_CONTROL3         PG14
+SP4T13_CONTROL4         PG13
+SP4T14_CONTROL1         PG12
+SP4T14_CONTROL2         PG11
+**********************SP6T_LOAD3******************
+SP4T15_CONTROL1         PE1
+SP4T15_CONTROL2         PE0
+SP4T15_CONTROL3         PB9
+SP4T15_CONTROL4         PB8
+SP4T16_CONTROL1         PB7
+SP4T16_CONTROL2         PB6
+**********************SP6T_LOAD4******************
+SP4T21_CONTROL1         PG2
+SP4T21_CONTROL2         PD15
+SP4T21_CONTROL3         PD14
+SP4T21_CONTROL4         PD13
+SP4T22_CONTROL1         PD12
+SP4T22_CONTROL2         PD11
